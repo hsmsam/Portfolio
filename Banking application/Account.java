@@ -70,7 +70,7 @@ public class Account {
 			switch (option1) {
 			case '1':
 				System.out.println("=====================");
-				System.out.println("Balance = £" + balance);
+				System.out.println("Balance = Â£" + balance);
 				System.out.println("=====================");
 				System.out.println();
 				break;
